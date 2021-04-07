@@ -1,8 +1,8 @@
 <?php
 
 // list
-$inputList = ''; // list.txt
+$inputList = 'oke.txt'; // oke.txt
 
 // telegram
-$telegramToken = ''; // token telegram bot
-$telegramChatId = ''; // chat id telegram
+$telegramToken = 'AAHJTz8HjbYXHZNNUVGXkvqlfUqzhC4RfvI'; // token telegram bot
+$telegramChatId = '1782164551'; // chat id telegram
